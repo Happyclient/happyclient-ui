@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Happyclient/happyclient-ui/issues"
   },
-  "homepage": "https://github.com/Happyclient/happyclient-ui#readme"
+  "homepage": "https://github.com/Happyclient/happyclient-ui#readme",
+  "publishConfig": {
+    "@sharifbubuka:registry": "https://npm.pkg.github.com"
+  }
 }
